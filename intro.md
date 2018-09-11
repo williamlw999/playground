@@ -1,1 +1,1 @@
-a project by joe
+A project by Sally and Jack 
