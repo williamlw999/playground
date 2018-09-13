@@ -1,3 +1,3 @@
-# Playground Repo
+# Important info about this repo
 
-For practicing.
+Winter is coming.
