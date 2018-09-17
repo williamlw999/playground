@@ -1,3 +1,3 @@
-# Important info about this repo
+# Playground Repo
 
-Winter is coming.
+Fall 2018 message.
